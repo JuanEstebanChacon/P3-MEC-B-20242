@@ -1,0 +1,57 @@
+## Que son las clases privadas?? 
+{
+~ clases que nadie puede ver
+~clases que nadie puede modificar
+~ clases que todas las demás clases pueden modificar
+= clases que solo se pueden modificar dentro de la misma clase
+}
+##  Cuales son los niveles de acceso?? 
+{
+= publico, privado y protegido
+~ de nivel 1, 2 y 3
+~ principal, hereditario y sucesor 
+}
+## Que tipos de atributos hay?? 
+{
+~ privado y publico
+= estático y no estatico
+~ principal y hereditario 
+	}
+## Los métodos son igual a los atributos con los tipos estáticos y no estáticos?? {T}
+## Que significa POO?? 
+{
+~ programacion de objetos operables
+~ partes del objetos operables
+= programacion orientada a objetos
+}
+## El set sirve para:
+{
+~ colocar información en una variable, clase u objeto
+= tomar información de una variable, clase u objeto
+~ heredar información de una variable, clase u objetos
+}
+## cual es el código para colocar una variable que no se pueda cambiar??
+{
+= finalint variable = 0;
+~ endint variable = 1;
+~ final.int variable = 0;
+~ end.int variable = 1;
+	}
+## como declarar una variable de verdadero y falso??
+{
+= boole
+~ int
+~ string
+}
+## como se escribe en la pantalla en java??
+{
+~ cout<<
+~ print(“”)
+= system.our(“”)
+}
+## como hacer que una clase herede a otra??
+{
+~ creando in import al principio del código
+= colocando el nombre de la clase heredable antes de los corchetes de la clase a 	la cual esta heredando
+~ colocando el normbre de la clase heredable al final de los corchetes del al clase 	a la cual esta heredando
+}
